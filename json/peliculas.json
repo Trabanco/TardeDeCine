@@ -1,0 +1,94 @@
+{
+  "peliculas": [
+    {
+      "id": 2,
+      "nombre": " La casa de la esperanza",
+      "director": "Niki Caro",
+      "clasificacion": " Drama, Biografía, Guerra",
+      "caratula": "https://pics.filmaffinity.com/the_zookeeper_s_wife-946420088-large.jpg",
+      "info": "https://www.filmaffinity.com/es/film305883.html"
+    },
+    {
+      "id": 4,
+      "nombre": "Cuento de invierno",
+      "director": "Akiva Goldsman",
+      "clasificacion": "Fantástico. Romance",
+      "caratula":"https://pics.filmaffinity.com/winter_s_tale-818026038-large.jpg",
+      "info":"https://www.filmaffinity.com/es/film512857.html"
+    },
+    {
+      "id": 5,
+      "nombre": "Come, reza y ama ",
+      "director": "Ryan Murphy",
+      "caratula":"https://pics.filmaffinity.com/eat_pray_love-995707132-mmed.jpg",
+      "clasificacion": "Romance. Comedia. Drama ",
+      "info":"https://www.filmaffinity.com/es/film195992.html"
+    },
+    {
+      "id": 6,
+      "nombre": "Descifrando Enigma",
+      "director": "Morten Tyldum",
+      "caratula":"https://pics.filmaffinity.com/the_imitation_game-824166913-large.jpg",
+      "clasificacion": "Drama | Biográfico",
+      "info":"https://www.filmaffinity.com/es/film617730.html"
+    },
+    {
+      "id": 7,
+      "nombre": "Animales fantásticos y dónde encontrarlos",
+      "director": "David Yates",
+      "clasificacion": "Spin-off. Magia",
+      "caratula":"https://pics.filmaffinity.com/fantastic_beasts_and_where_to_find_them-378562740-mmed.jpg",
+      "info":"https://www.filmaffinity.com/es/film215415.html"
+    },
+    {
+      "id": 8,
+      "nombre": "Dr. Strange (Doctor Extraño)",
+        "director": "Scott Derrickson",
+        "clasificacion": "Fantástico. Acción. Comedia",
+        "caratula":"https://pics.filmaffinity.com/doctor_strange-883697036-mmed.jpg",
+        "info":"https://www.filmaffinity.com/es/film858509.html"
+    },
+    {
+      "caratula":"https://pics.filmaffinity.com/the_sixth_sense-516003703-mmed.jpg",
+      "info":"https://www.filmaffinity.com/es/film607127.html",
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "id": 9
+    },
+    {
+      "caratula":"https://pics.filmaffinity.com/katyn-840781201-mmed.jpg",
+      "info":"https://www.filmaffinity.com/es/film120942.html",
+      "nombre": "Katyn",
+      "director": "Andrzej Wajda",
+      "clasificacion": "Drama. Bélico",
+      "id": 10
+    },
+    {
+      "caratula":"https://pics.filmaffinity.com/under_the_tuscan_sun-186949998-mmed.jpg",
+        "info":"https://www.filmaffinity.com/es/film455550.html",
+      "nombre": "Bajo el sol de la Toscana",
+      "director": "Audrey Wells",
+      "clasificacion": "Romance. Comedia",
+      "id": 11
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ]
+}

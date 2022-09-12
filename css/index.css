@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://previews.123rf.com/images/iloveotto/iloveotto0912/iloveotto091200023/6229060-tira-de-la-gran-pel%C3%ADcula-de-texturas-y-fondos.jpg);
+    backdrop-filter: blur(6px);
+}
+
+#moviesSection {
+    background-color: transparent;
+    display: grid;
+    grid-gap: 2em;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 50px;
+}
+
+h1 {
+   text-align: center;
+   color: #554B42ff;
+   
+}
+#cinemaHeader {
+    font-weight: bold;
+    text-align: center;
+    font-size: 100px;
+}
+h2 {
+    color: #1D465Cff;
+    text-align: center;
+}
+.col-6{
+    border: #3C819Aff;
+}
+
+.card-group {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#text {
+    color:#554B42ff;
+}
+
+
+
+
+
+
